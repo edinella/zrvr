@@ -1,0 +1,43 @@
+{
+  "name": "zrvr",
+  "description": "Lean zmq-drived HTTP server",
+  "author": "Ezequias Dinella <ezequias.net@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/edinella/zrvr.git"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib",
+  "dependencies": {
+    "zmq": "^2.6.0",
+    "cuid": "^1.2.4"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "chai": "^1.9.1",
+    "sinon": "^1.9.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "loadbalancer",
+    "frictionless",
+    "job",
+    "zeromq",
+    "zmq",
+    "0mq",
+    "ømq",
+    "queue",
+    "kue",
+    "sysadmin",
+    "tools",
+    "cluster",
+    "clustering",
+    "devops",
+    "dev ops"
+  ]
+}
